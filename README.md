@@ -58,9 +58,12 @@ This project investigates employee attrition to understand key factors contribut
 📁 data/
 ├── main_dataset.csv
 └── updated_dataset.csv
+
 📁 visuals/
 └── dashboard.png
+
 📁 notebooks/
 └── eda_analysis.ipynb
+
 📁 powerbi/
 └── employee_attrition_dashboard.pbix
